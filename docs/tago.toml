@@ -1,0 +1,10 @@
+title       = "kattis"
+baseURL     = "https://kattis-cli.tamnd.com/"
+description = "Browse Kattis competitive programming problems"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/kattis-cli"
